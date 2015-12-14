@@ -1,0 +1,27 @@
+bookname: template
+booktitle: "ReVIEW Dojinshi template"
+subtitle: "base template for making my book"
+language: ja
+aut: "@n_kane"
+prt: Glenda9
+prt_url: http://github.com/enukane/
+date: 201X-XX-XX
+rights: (C) enukane
+description: Season 20XX, CXX book
+
+# Title page is separated from this generation (coverpage.pdf)
+titlepage: false
+# 奥付生成
+colophon: true
+pubhistory: 20XX年 XX月 XX日 第一版発行
+
+toc: true
+toclevel: 3
+secnolevel: 3
+stylesheet: templaste.css
+texstyle: template
+texdocumentclass: ["jsbook", "a4j,openany"]
+mytoc: true
+
+
+params: --stylesheet=template.css --footnotetext --chapterlink --subdirmode
