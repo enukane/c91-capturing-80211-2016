@@ -20,7 +20,7 @@ toclevel: 3
 secnolevel: 3
 stylesheet: templaste.css
 texstyle: template
-texdocumentclass: ["jsbook", "a4j,openany"]
+texdocumentclass: ["jsbook", "uplatex,a4j,openany"]
 mytoc: true
 
 
