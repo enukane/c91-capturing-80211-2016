@@ -1,4 +1,4 @@
-NAME = template
+NAME = c91book
 TARGETPDF = $(NAME).pdf
 BUILDDIR = $(NAME)-pdf
 

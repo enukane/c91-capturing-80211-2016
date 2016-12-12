@@ -1,19 +1,19 @@
-bookname: template
-booktitle: "ReVIEW Dojinshi template"
-subtitle: "base template for making my book"
+bookname: c91book
+booktitle: "Capturing 802.11"
+subtitle: "2016年版"
 language: ja
 aut: "@n_kane"
 prt: Glenda9
-prt_url: http://github.com/enukane/
-date: 201X-XX-XX
+prt_url: http://github.com/enukane/c91-capturing-80211-2016
+date: 2016-12-29
 rights: (C) enukane
-description: Season 20XX, CXX book
+description: Season 2016 Winter, C91 book
 
 # Title page is separated from this generation (coverpage.pdf)
 titlepage: false
 # 奥付生成
 colophon: true
-pubhistory: 20XX年 XX月 XX日 第一版発行
+pubhistory: 2016年 12月 29日 第一版発行
 
 toc: true
 toclevel: 3
