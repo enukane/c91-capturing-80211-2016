@@ -16,12 +16,15 @@ colophon: true
 pubhistory: 2016年 12月 29日 第一版発行
 
 toc: true
-toclevel: 3
-secnolevel: 3
+toclevel: 1
+secnolevel: 4
 stylesheet: templaste.css
 texstyle: template
-texdocumentclass: ["jsbook", "uplatex,a4j,openany"]
+texdocumentclass: ["jsbook", "12pt,uplatex,a4j,openany"]
 mytoc: true
 
 
 params: --stylesheet=template.css --footnotetext --chapterlink --subdirmode
+#dvicommand: dvipdfmx
+#dvioptions: "-p a4 -x 40 -y 58"
+debug: true
