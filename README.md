@@ -10,6 +10,14 @@ C91, 2016 冬コミックマーケット 西1 み-18a "glenda9" にて頒布し�
 生成してください. なお印刷した完成原稿は OS X El Capitan 10.11.6, MacTex-2016,
 review 2.0.0 の環境でビルドしました.
 
+頒布物をお持ちの方は、以下のURLより完成原稿のPDFをダウンロード可能です。
+
+- https://taimen.jp/view/?item_id=2492
+
+また完成原稿pdfはgumroadにて販売しています。
+
+- https://gum.co/kLUjK
+
 ## ビルドに必要なもの
 
 - Ruby (2.2.2以上)
